@@ -83,11 +83,11 @@ sudo apt-mark hold libmutter-10-0 mutter-common
 * **Columns**: 135
 * **Rows**: 40
 #### **Colors**
-Generated from wallpaper by [pywal](https://github.com/dylanaraps/pywal)
+##### **Generated from wallpaper by [pywal](https://github.com/dylanaraps/pywal)**
 ```
 wal -i "/path/to/img"
 ```
-Persist on reboot
+##### **Persist on reboot**
 ```
 wal -R
 ```
