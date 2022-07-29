@@ -61,7 +61,7 @@ I use [mutter-rounded](https://github.com/yilozt/mutter-rounded) with:
 * **Blured window opacity**: 80
 ### **Blured List**
 Use on whatever you want
-#### Examples include
+#### **Examples include**
 * software-properties-gtk
 * gnome-extensions-app
 * gnome-control-center
@@ -70,19 +70,19 @@ Use on whatever you want
 * gnome-terminal-server
 * mutter_setting
 * org.gnome.Nautilus
-#### Persist on system update
+#### **Persist on system update**
 ```
 sudo apt-mark hold libmutter-10-0 mutter-common
 ```
 
 ## **Applications**
 ### **Terminal**
-#### Theme variant
+#### **Theme variant**
 * **Dark**
-#### Initial size
+#### **Initial size**
 * **Columns**: 135
 * **Rows**: 40
-#### Colors
+#### **Colors**
 Generated from wallpaper by [pywal](https://github.com/dylanaraps/pywal)
 ```
 wal -i "/path/to/img"
