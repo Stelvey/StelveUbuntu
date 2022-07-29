@@ -23,7 +23,7 @@
 * [Window List](https://extensions.gnome.org/extension/602/window-list/)
 * [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)
 * [Workspace Indicator](https://extensions.gnome.org/extension/21/workspace-indicator/)
-### **Manually installed** *(see [extensions](gnome-extensions))*
+### **Manually installed**
 * [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
 * [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
 * [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
