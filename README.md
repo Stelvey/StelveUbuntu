@@ -27,6 +27,7 @@
 * [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
 * [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
 * [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
+* [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 * [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 * [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) *(see [config](configs/extensions/dash_to_panel.cfg))*
 * [Freon](https://extensions.gnome.org/extension/841/freon/)
@@ -53,27 +54,14 @@
 ## **GTK Theme**
 I use Nordic-darker-standard-buttons from [Nordic](https://github.com/EliverLara/Nordic) theme
 
-## **Mutter**
-I use [mutter-rounded](https://github.com/yilozt/mutter-rounded) with:
-* **Rounded radius**: 15
-* **Blur sigmal**: 5
-* **Blur brightness**: 80
-* **Blured window opacity**: 80
-### **Blured List**
-Use on whatever you want
-#### **Examples include**
-* software-properties-gtk
-* gnome-extensions-app
-* gnome-control-center
-* gnome-tweaks
-* spotify
-* gnome-terminal-server
-* mutter_setting
-* org.gnome.Nautilus
-#### **Persist on system update**
-```
-sudo apt-mark hold libmutter-10-0 mutter-common
-```
+## **Blur my Shell**
+I used to have [mutter-rounded](https://github.com/yilozt/mutter-rounded), but it often breaks so I had to give up rounded corners. I still have blur via an extension and these are my settings:
+* **Sigma**: 20
+* **Brightness**: 1.00
+* **Color and noise effects**: Disabled
+* **Hack level**: No artifact
+
+Enable the blur on whatever you want
 
 ## **Applications**
 ### **Terminal**
